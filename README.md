@@ -1,6 +1,7 @@
 # gh-open
 
 Opens the remote URL of the specified Git repository in a browser.
+
 [日本語](README.ja.md)
 
 ## Features
